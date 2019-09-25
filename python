@@ -1,9 +1,0 @@
-# THE FOLLOWING CODE DOESN'T RUN. THERE'S 2 ERRORS, CAN YOU FIX THEM?
-
-# 17- print every even element of the list, sorted backwards
-lst = [1,7,2,6,3,5,4,10,9,8,7,6,5,4,3,2,22]
-lst_even = []
-for element in lst
-    if element % 2 = 0:
-        lst_even.append(element)
-list(reversed(sorted(lst_even)))
